@@ -1,1 +1,1 @@
-# house-price-predection
+I am sharing this dataset as part of my Machine Learning learning journey and academic project work. It contains housing-related features that can be used to predict property prices and understand the factors that affect real estate values. The dataset is useful for students and beginners who want to practice EDA, data preprocessing, and regression modeling.
